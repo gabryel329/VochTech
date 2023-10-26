@@ -20,6 +20,9 @@ Antes de começar a utilizar o projeto, siga estas etapas de configuração:
 
  - php artisan db:seed
 
+ - Login: vochtech@testejunior.com
+ - Senha: 12345678
+
 4. Para criar cargos, execute:
 
  - php artisan db:seed --class=CargosSeeder
